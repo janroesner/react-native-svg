@@ -5,10 +5,10 @@
   "description": "A <Svg /> element for react-native that renders Svg images using SVGKit",
   "author": "Brent Vatne <brentvatne@gmail.com> (https://github.com/brentvatne)",
   "peerDependencies": {
-    "react-native": ">=0.4.4"
+    "react-native": ">=0.8.0-rc"
   },
   "devDependencies": {
-    "react-native": ">=0.4.4"
+    "react-native": ">=0.8.0-rc"
   },
   "dependencies": {
     "d3": "^3.5.5",
